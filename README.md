@@ -13,8 +13,11 @@ I invite you to explore my projects, witness my journey, and perhaps find inspir
 
 📬 Contact Information
 GitHub: https://github.com/IsadoraRV
+
 LinkedIn: https://br.linkedin.com/in/isadora-rocha-vieira-0b5434218
+
 Email: isadoravieirac1803@gmail.com
+
 Thank you for joining me on this coding adventure! 
 
 🚀✨ Let's code for a brighter, more inclusive future. 💻🌐
